@@ -1,0 +1,35 @@
+commit afd416c7915896bd459a4f4b436eb7b4bbc6279f
+Author: GuillaumeB59 <guillaume.bioche@gmail.com>
+Date:   Sun Oct 4 17:09:27 2020 +0100
+
+    add .gitignore
+
+commit 947b435bcebcce93243c2deeaf2bc3c38250495b
+Author: GuillaumeB59 <guillaume.bioche@gmail.com>
+Date:   Sun Oct 4 16:47:44 2020 +0100
+
+    modif
+
+commit cc41eec453df0c0d129d94e8ed3760275e30aa40
+Author: GuillaumeB59 <guillaume.bioche@gmail.com>
+Date:   Sun Oct 4 16:45:22 2020 +0100
+
+    add 2 other files
+
+commit a58a7918f78f718196d7d5824607760913ff411c
+Author: GuillaumeB59 <guillaume.bioche@gmail.com>
+Date:   Sun Oct 4 16:44:47 2020 +0100
+
+    update
+
+commit f5d147a7a818ce65aedcddbad019ddb8144cd383
+Author: GuillaumeB59 <guillaume.bioche@gmail.com>
+Date:   Sun Oct 4 16:42:32 2020 +0100
+
+    first commit
+
+commit 2e4eafe71088571236e50354d2d39f2a4a11fab3
+Author: GuillaumeB59 <guillaume.bioche@gmail.com>
+Date:   Sun Oct 4 13:56:18 2020 +0100
+
+    added two files
