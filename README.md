@@ -7,9 +7,9 @@ And this is the second.
 Count this one as the fourth.
 
 Some markdown examples for practice:
-1. Born in 1974
-2. Grew up in Louviers, Eure, France, Europe
-3. Currrently living in London, UK, Europe for still a few months. Sigh.
+1. Born in 19**
+2. Grew up in L*, Eure, France, Europe
+3. Currrently living in L*, UK, Europe for still a few months. Sigh.
 
-###contact
-guillaume.bioche@gmail.com
+### contact
+guillaume.boiche@mgail.com
