@@ -1,28 +1,15 @@
-# This is a large heading
+# About myself
+## October the 24th, 2020, Covid-0.
+I am supposed to write here a few lines about myself.
+Here is one.
+And this is the second.
 
-## This is a smaller heading
+Count this one as the fourth.
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+Some markdown examples for practice:
+1. Born in 1974
+2. Grew up in Louviers, Eure, France, Europe
+3. Currrently living in London, UK, Europe for still a few months. Sigh.
 
-- This is
-- an unordered
-- list
-
-1. This is
-2. an ordered
-3. list
-
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+###contact
+guillaume.bioche@gmail.com
